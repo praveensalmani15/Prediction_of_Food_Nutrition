@@ -16,4 +16,5 @@ This project is an end-to-end deep learning pipeline that classifies food images
 ---
 ## Sample Output 
 
-![Uploading image.png…]()
+
+<img width="391" height="142" alt="Screenshot 2025-07-28 181304" src="https://github.com/user-attachments/assets/941e91d7-4035-4133-b82a-6adc4b282596" />
