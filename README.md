@@ -11,7 +11,6 @@ This project is an end-to-end deep learning pipeline that classifies food images
 - ✅ Fine-tunes **MobileNetV2** for 10 popular food classes
 - ✅ Predicts food class from an image
 - ✅ Provides nutritional information from a CSV dataset
-- ✅ Streamlit-based web app for user interaction
 
 ---
 ## Sample Output 
